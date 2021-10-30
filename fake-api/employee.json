@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "gdogan",
+      "department": "yazılımcı",
+      "salary": 49000,
+      "id": 2
+    },
+    {
+      "name": "rumo",
+      "department": "pc muh",
+      "salary": 1234,
+      "id": 4
+    },
+    {
+      "name": "rumeysao",
+      "department": "yazılımcı",
+      "salary": 67897,
+      "id": 5
+    },
+    {
+      "name": "atiye",
+      "department": "kuafor",
+      "salary": 5678,
+      "id": 7
+    },
+    {
+      "name": "aliye",
+      "department": "paraşütçü",
+      "salary": 3456,
+      "id": 9
+    }
+  ]
+}
